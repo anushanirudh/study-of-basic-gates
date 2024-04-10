@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### EX 01             STUDY-OF-BASIC-GATES
 
 **AIM:** 
 
@@ -61,28 +61,140 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
+**AND GATE**
 
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+Developed by: R Anirudh RegisterNumber: 212223230016
 
- Developed by: R Anirudh RegisterNumber: 212223230016
 
-![Screenshot 2024-04-09 125118](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/2a217276-0ece-4944-9600-e3fc68ea89a1)
+![Screenshot 2024-04-10 212707](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/d1d0e583-e27a-4135-902d-85353eff374a)
 
  
 **Logic symbol & Truthtable**
 
-![Screenshot 2024-04-09 125259](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/c5b56207-8e73-413a-a556-be65d94ffd18)
+![Screenshot 2024-04-10 212748](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/e0eb2c05-50f5-46a9-b3fc-0447f4037cb0)
 
 
 **RTL realization:** 
 
-![Screenshot 2024-04-09 125456](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/5d3ad2ee-a8d2-417c-af03-fea0bfd289ed)
+![Screenshot 2024-04-10 212837](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/db1898bc-af9f-44cb-b9b9-43c016c932db)
+
 
 **Output:**
 
-![Screenshot 2024-04-09 125547](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/3c6ffede-3ad2-40c1-9ecb-c8a99a85fdae)
+![Screenshot 2024-04-10 212909](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/fecd27f8-7b14-418d-a03f-d9f55eeead16)
+
+**OR GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 213023](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/fa4853f4-c816-4f97-be86-78e0b71c6b1d)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 213117](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/8ca1ed82-92f7-4515-9d78-b93fe7af4c2a)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 213213](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/017acbc7-3679-4307-a1ea-d9b720ee2c9f)
+
+**Output:**
+
+![Screenshot 2024-04-10 213306](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/c5251523-0015-411f-9558-6b9248652f9c)
+
+**NOT GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 213740](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/1b21fc00-a303-4729-8279-01d514e21715)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 213823](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/1202273b-8e77-4348-821d-02332f0ebbd0)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 213909](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/50a4e737-9ef9-4a02-9f1c-d05654e2cb5e)
+
+
+**Output:**
+
+![Screenshot 2024-04-10 213948](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/3265f736-e476-4de5-9ff1-ddffc2f45f2f)
+
+**NAND GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 213426](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/f49b1e95-2a3a-4651-bd13-63a70c8a5dab)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 213508](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/0726621b-04cf-42ce-b217-0f75541ffcd8)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 213536](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/7ac4d40d-7c5a-441f-aafa-b6738bc253a2)
+
+**Output:**
+
+![Screenshot 2024-04-10 213615](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/4ae210a3-af8a-4f13-aeca-7a6724a6420c)
+
+**NOR GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 214059](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/19af4975-b794-4002-823d-8c2fad093adb)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 214140](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/2d724239-1d26-4138-a452-c83cfe667ccb)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 214212](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/8fe49bf9-ee33-46b3-b683-cb82750ad0aa)
+
+**Output:**
+
+![Screenshot 2024-04-10 214246](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/054ad962-ae5c-4773-a38f-6bcdbc253599)
+
+**EX-OR GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 214340](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/f8598a46-4e99-47c0-ba2a-b0c0ce6c6310)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 214411](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/59525516-b24f-4941-b68f-f0115c91fddb)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 214500](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/7b5abee6-679c-43e9-9f0a-77bf581695f0)
+
+**Output:**
+
+![Screenshot 2024-04-10 214546](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/644b4fc5-de50-463a-b26a-9a1fa9bfd235)
+
+
+**EX-NOR GATE**
+
+**PROGRAM**
+
+![Screenshot 2024-04-10 214638](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/15bdc09c-f62b-4ff1-9567-6b40d12b591f)
+
+**Logic symbol & Truthtable**
+
+![Screenshot 2024-04-10 214725](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/be058615-b2ae-4de7-a1ed-c471f1c1c22d)
+
+**RTL realization:** 
+
+![Screenshot 2024-04-10 214802](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/627d31db-ed9f-4a3f-90fa-e925cb491d72)
+
+**Output:**
+
+![Screenshot 2024-04-10 214851](https://github.com/anushanirudh/study-of-basic-gates/assets/151725737/691e5ef4-2818-4a9d-8f9c-224faa28b5d9)
 
 
 **Result:**
